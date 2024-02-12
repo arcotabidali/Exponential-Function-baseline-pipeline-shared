@@ -1,0 +1,18 @@
+Quartus Prime Archive log --	/home/aarcot/lab1/shared/lab1_23_4_0_79.qarlog
+
+Archive:	/home/aarcot/lab1/shared/lab1_23_4_0_79.qar
+Date:		Tue Feb  6 23:21:21 2024
+Quartus Prime		23.4.0 Build 79 11/22/2023 SC Pro Edition
+
+	=========== Files Selected: ===========
+/home/aarcot/lab1/shared/SDC1.sdc
+/home/aarcot/lab1/shared/lab1.qpf
+/home/aarcot/lab1/shared/lab1.qsf
+/home/aarcot/lab1/shared/lab1.v
+/home/aarcot/lab1/shared/lab1_assignment_defaults.qdf
+/home/aarcot/lab1/shared/lab1_early_pwr.csv
+/home/aarcot/lab1/shared/lab1_tb.v
+	======= Total: 7 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.
